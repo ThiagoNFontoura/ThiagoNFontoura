@@ -19,9 +19,7 @@ I'm a Computer Scientist from Brazil
 ---
 
  ## 📲 Contact
-  <a href="mailto:thiagonoll2016@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+[<img src="https://skillicons.dev/icons?i=gmail" />](mailto:thiagonoll2016@gmail.com)
 
 <br>
 <br>
