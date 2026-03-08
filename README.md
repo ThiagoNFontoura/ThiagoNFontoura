@@ -22,3 +22,11 @@ I'm a Computer Scientist from Brazil
   <a href="mailto:thiagonoll2016@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+
+<br>
+<br>
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThiagoNFontoura&color=green&style=flat-square&label=VISITS "alt="ThiagoNFontoura" />
+</div>
