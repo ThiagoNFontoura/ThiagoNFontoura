@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Thiago 👋
 
-<!--
-**ThiagoNFontoura/ThiagoNFontoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Scientist from Brazil
 
-Here are some ideas to get you started:
+- **CS Student** at **UFRGS** - Federal University of Rio Grande do Sul
+- Passionate about **gaming** and **high-performance computing**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✅ Solid knowledge
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+
+## 🚀 Studying
+<img src="https://skillicons.dev/icons?i=java,postgres,linux,unity,cs" />
+
+## 🎯 Intend to study
+<img src="https://skillicons.dev/icons?i=unreal,kotlin,js,ts,html,php,rust" />
+
+---
+
+ ## 📲 Contact
+  <a href="mailto:thiagonoll2016@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
