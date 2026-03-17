@@ -20,11 +20,3 @@ I'm a Computer Scientist from Brazil
 
  ## 📲 Contact
 [<img src="https://skillicons.dev/icons?i=gmail" />](mailto:thiagonoll2016@gmail.com)
-
-<br>
-<br>
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThiagoNFontoura&color=green&style=flat-square&label=VISITS "alt="ThiagoNFontoura" />
-</div>
