@@ -11,7 +11,7 @@ I'm a Computer Scientist from Brazil
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,postgres" />
 
 ## 🚀 Studying
-<img src="https://skillicons.dev/icons?i=,linux,unity,cs" />
+<img src="https://skillicons.dev/icons?i=linux,unity,cs" />
 
 ## 🎯 Intend to study
 <img src="https://skillicons.dev/icons?i=unreal,kotlin,js,ts,html,php,rust" />
