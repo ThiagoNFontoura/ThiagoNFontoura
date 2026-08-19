@@ -20,3 +20,4 @@ I'm a Computer Scientist from Brazil
 
  ## 📲 Contact
 [<img src="https://skillicons.dev/icons?i=gmail" />](mailto:thiagonoll2016@gmail.com)
+[<img src="https://skillicons.dev/icons?i=linkedin" />](www.linkedin.com/in/thiago-noll-da-fontoura-208a35284)
