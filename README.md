@@ -8,7 +8,7 @@ I'm a Computer Scientist from Brazil
 ---
 
 ## ✅ Solid knowledge
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,postgres" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,postgres,git,docker" />
 
 ## 🚀 Studying
 <img src="https://skillicons.dev/icons?i=linux,unity,cs" />
