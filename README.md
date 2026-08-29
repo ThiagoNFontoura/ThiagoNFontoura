@@ -11,10 +11,10 @@ I'm a Computer Scientist from Brazil
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,postgres,git,docker" />
 
 ## 🚀 Studying
-<img src="https://skillicons.dev/icons?i=linux,unity,cs" />
+<img src="https://skillicons.dev/icons?i=js,cs,linux,unity" />
 
 ## 🎯 Intend to study
-<img src="https://skillicons.dev/icons?i=unreal,kotlin,js,ts,html,php,rust" />
+<img src="https://skillicons.dev/icons?i=unreal,kotlin,ts,html,php,rust" />
 
 ---
 
